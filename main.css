@@ -1,0 +1,14 @@
+body {
+  background-color: #F05F57;
+  font-weight: bold;
+  text-align: center;
+	padding: 5%;
+}
+
+h1 {
+	font-size: 3em;
+}
+
+p {
+	font-size: 1.3em;
+}
